@@ -75,7 +75,7 @@ a {
   display: grid;
   place-items: center;
   font-family: Manrope;
-  font-size: 18px;
+  font-size: 15px;
 }
 
 .top-actions {
@@ -440,7 +440,7 @@ a {
   margin: 0 0 8px;
 }
 
-.login-box > p {
+.login-box>p {
   color: var(--muted);
   font-size: 14px;
   margin: 0 0 28px;

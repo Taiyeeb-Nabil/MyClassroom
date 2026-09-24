@@ -61,7 +61,6 @@ function login() {
         <input class="field" id="login-pass" type="password" placeholder="Enter your password" autocomplete="current-password" required>
 
         <button class="primary">Sign in <span style="float:right">→</span></button>
-        <div class="login-help">Your account is created and managed by your administrator.</div>
         <div style="text-align:center;margin-top:18px">
           <button type="button" class="text-button" onclick="demoAdmin()">Admin preview</button>
         </div>
